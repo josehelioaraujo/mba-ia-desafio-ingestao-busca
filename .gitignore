@@ -1,3 +1,18 @@
+# Ambiente e configuração
 .env
-/venv
-__pycache__
+venv/
+__pycache__/
+
+# Arquivos de debug e teste
+debug_*.py
+teste_*.py
+
+# Docker dados
+postgres_data/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
