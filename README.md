@@ -181,6 +181,8 @@ python src/ingest.py
 # Iniciar sistema de chat
 python src/chat.py
 ```
+#### 6.1 Interface Visual do Chat na Linha de comando
+![image](https://github.com/user-attachments/assets/a6eda795-be23-4b83-bcfa-97cf64cda6a9)
 
 ## Manual de Uso do Chat
 
